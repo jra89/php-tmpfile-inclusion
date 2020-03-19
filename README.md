@@ -1,6 +1,6 @@
 # php-tmpfile-inclusion
 
-##Setup
+## Setup
 
 ###### Compiling the hera tool (this will spam all the files)
 
@@ -24,7 +24,7 @@ sudo apt install timelimit
 
 ###### Edit the hera.sh script and set the correct target host
 
-##Reproduce attack
+## Reproduce attack
 
 
 ###### Start the hera tool
